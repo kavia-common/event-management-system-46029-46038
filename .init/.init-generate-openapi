@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew bootRun",
+    "working_directory": "/home/kavia/workspace/code-generation/event-management-system-46029-46038/event_management_backend"
+}
